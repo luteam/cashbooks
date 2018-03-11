@@ -1,0 +1,6 @@
+https://zhidao.baidu.com/question/138375857656367725.html
+
+http://developer.huawei.com/consumer/cn/service/hms/catalog/huaweipush.html?page=hmssdk_huaweipush_devprepare
+
+
+D:\jdk\jdk1.8.74\bin
